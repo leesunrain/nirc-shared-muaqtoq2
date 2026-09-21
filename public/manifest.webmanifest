@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "name": "NIRC Run Pulse",
+  "short_name": "Run Pulse",
+  "description": "NIRC LT1 LT2 & Race HR",
+  "start_url": "https://nirc-run-pulse.vercel.app/",
+  "scope": "https://nirc-run-pulse.vercel.app/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#1746a2",
+  "icons": [
+    {"src":"/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
